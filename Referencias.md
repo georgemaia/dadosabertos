@@ -1,6 +1,6 @@
 # Referências
 
-## Github
+
 
 [https://github.com/reisdebora/analisapenalidadesCNPJ/blob/master/analisa_penalidades.md](https://github.com/reisdebora/analisapenalidadesCNPJ/blob/master/analisa_penalidades.md)  
 
@@ -10,8 +10,12 @@
 
 Guia do cientista de dados: [https://github.com/leportella/datascience-pizza](https://github.com/leportella/datascience-pizza)
 
+## Guia inicial
+
+Carregar a biblioteca Pyhton Panda:
+
+*import pandas as pd*
 
 
-## Funções
 
 
