@@ -1,4 +1,4 @@
-# Datasets Portal da Transparência da Mobilidade Urbana de Natal/RN - 
+# Datasets Portal da Transparência da Mobilidade Urbana de Natal/RN
 
 **Bilhetagem Eletrônica**
 
@@ -13,6 +13,7 @@
 **Paradas**
 
 **Rotas**
+
 - Cidade do Natal
 - Conceição
 - Guanabara
