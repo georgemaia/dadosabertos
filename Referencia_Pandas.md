@@ -1,4 +1,6 @@
-# Guia Biblioteca Pandas
+# Biblioteca Pandas
+
+
 
 **Carregar a biblioteca Pyhton Panda**
 
@@ -255,6 +257,8 @@ month_names = df.Mês.apply(lambda x: month_name[x])
 *df.groupby(['Month','Mês'], as_index=False).sum()*
 
 Agrupa as colunas pelo mês
+
+
 
 
 
