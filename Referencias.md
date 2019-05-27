@@ -6,11 +6,15 @@
 
 
 
+
+
 **Baixar o arquivo CSV**
 
 *wget - c URL*
 
 Sendo a URL o endereço do arquivo
+
+
 
 
 
@@ -22,11 +26,15 @@ Sendo FILE o nome do arquivo baixado, o separador dos registros sendo o ; e o in
 
 
 
+
+
 **Checar se o arquivo foi carregado**
 
 *df.head()*
 
 Exibe os primeiros registros
+
+
 
 
 
@@ -36,9 +44,13 @@ Exibe os primeiros registros
 
 
 
+
+
 **Exibir 10 registros aleatórios**
 
 *df.sample(10)*
+
+
 
 
 
@@ -48,9 +60,13 @@ Exibe os primeiros registros
 
 
 
+
+
 **Exibir informações do dataset como nome da coluna, tamanho e tipo de valores**
 
 *df.info()*
+
+
 
 
 
@@ -76,9 +92,13 @@ max: valor máximo;
 
 
 
+
+
 **Exibir tipos de dados das colunas**
 
 *df.dtypes*
+
+
 
 
 
@@ -88,9 +108,13 @@ max: valor máximo;
 
 
 
+
+
 **Exibir as linhas a partir da 4 até a 8**
 
 *df.loc[3:7]*
+
+
 
 
 
@@ -100,15 +124,29 @@ max: valor máximo;
 
 
 
+
+
 **Exibir as linhas da empresa específicas**
 
 *df[df['Empresa'] == "CONCEIÇÃO"].head()*
 
 
 
+
+
 **Exibir coluna individual**
 
 *df['Empresa']*.head()
+
+
+
+
+
+**Exibir as colunas**
+
+df.columns
+
+
 
 
 
@@ -119,6 +157,50 @@ max: valor máximo;
 *len(empresas)*
 
 
+
+
+
+**Selecionar Multiplas colunas pelo nome**
+
+*df[['Empresa','Linha']].head()*
+
+
+
+
+
+**Apagar Colunas**
+
+*df.drop(['Estudante_Cartao_', 'Estudante_BT'], axis=1).head()*
+
+axis=1 significa através de colunas
+
+
+
+
+
+**Exibir apenas algumas colunas**
+
+*df.drop(df.columns.difference(['Mês','Empresa','Qtd_Viagens']), axis=1).head()*
+
+
+
+
+
+**Adicionar Colunas Processadas**
+
+*df['Integracao_Total'] = df['Integracao_Plena' + df['Integracao_Complementar']]*
+
+*df.sample(5)*
+
+
+
+
+
+**Converter tipo de coluna**
+
+*df["Linha"] = df["Linha"].astype(str)*
+
+Converter a coluna Linha de int64 para string
 
 
 
