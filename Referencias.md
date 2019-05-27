@@ -112,6 +112,16 @@ max: valor máximo;
 
 
 
+**Exibir a quantidade de empresas únicas**
+
+*empresas = df['Empresa'].unique()*
+
+*len(empresas)*
+
+
+
+
+
 ## Referências
 
 [https://github.com/reisdebora/analisapenalidadesCNPJ/blob/master/analisa_penalidades.md](https://github.com/reisdebora/analisapenalidadesCNPJ/blob/master/analisa_penalidades.md)
