@@ -4,8 +4,7 @@ Datasets utilizados para estudos com Jupyter Notebooks
 
 ## Mobilidade
 
-- Portal da Transparência da Mobilidade Urbana de Natal/RN - http://dadosabertos.natal.br/ 
-  [Análise](mobilidade/rn-natal)
+- Portal da Transparência da Mobilidade Urbana de Natal/RN - http://dadosabertos.natal.br/ - [Análise](mobilidade/rn-natal)
 
 ## Educação
 
