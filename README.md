@@ -2,8 +2,6 @@
 
 Datasets utilizados para estudos com Jupyter Notebooks
 
-
-
 ## Economia
 
 - Ministério da Economia - SICAF: [http://compras.dados.gov.br/docs/fornecedores/v1/fornecedores.html](http://compras.dados.gov.br/docs/fornecedores/v1/fornecedores.html) 
@@ -16,15 +14,13 @@ Datasets utilizados para estudos com Jupyter Notebooks
 
 ## Mobilidade
 
-- Portal da Transparência da Mobilidade Urbana de Natal/RN - http://dadosabertos.natal.br/ - [Análise](mobilidade/rn-natal)
+- [Análise](mobilidade/rn-natal) - Portal da Transparência da Mobilidade Urbana de Natal/RN - http://dadosabertos.natal.br/ 
 
 ## Educação
 
 - Dados Abertos da UFRN - [http://dados.ufrn.br/](http://dados.ufrn.br/)
 
 ## 
-
-
 
 # Referências de análise de dados
 
