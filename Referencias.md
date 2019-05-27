@@ -186,7 +186,7 @@ axis=1 significa através de colunas
 
 
 
-**Adicionar Colunas Processadas**
+**Adicionar Colunas Calculadas**
 
 *df['Integracao_Total'] = df['Integracao_Plena' + df['Integracao_Complementar']]*
 
@@ -201,6 +201,60 @@ axis=1 significa através de colunas
 *df["Linha"] = df["Linha"].astype(str)*
 
 Converter a coluna Linha de int64 para string
+
+
+
+
+
+**Método para converter número do mês em extenso**
+
+*from calendar import month_name #importa apenas o nome do mes da biblioteca calendar*
+
+month_names = df.Mês.apply(lambda x: month_name[x])
+
+
+
+
+
+**Exibe o nome do mês**
+
+*month_name[3]*
+
+
+
+
+
+**Adiciona nova comluma chamada Month**
+
+*df['Month'] = month_names*
+
+*df.head()*
+
+
+
+
+
+**Classificar pela coluna do dataset**
+
+*df.sort_values("Qtd_Viagens_", ascending=False)*
+
+
+
+
+
+**Classificar mais de uma coluna do dataset**
+
+*df.sort_values(by=['Estudante_Cartao', 'Estudante_BT'], ascending=False).head(10)*
+
+
+
+
+
+**Agrupando informações em coluna**
+
+*df.groupby(['Month','Mês'], as_index=False).sum()*
+
+Agrupa as colunas pelo mês
 
 
 
