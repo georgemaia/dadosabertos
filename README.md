@@ -18,7 +18,9 @@ Datasets utilizados para estudos com Jupyter Notebooks
 
 ## Educação
 
-- Dados Abertos da UFRN - [http://dados.ufrn.br/](http://dados.ufrn.br/)
+- CAPES - [https://dadosabertos.capes.gov.br/](https://dadosabertos.capes.gov.br/)
+
+- UFRN - [http://dados.ufrn.br/](http://dados.ufrn.br/)
 
 ## 
 
