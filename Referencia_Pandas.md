@@ -102,6 +102,22 @@ df.columns
 
 axis=1 significa através de colunas
 
+**Apagar linhas com valores inválidos**
+
+*df = df.dropna(axis=0, how='all')*
+
+axis :
+
+0, or ‘index’ : Remove as linhas com registros inválidos;
+
+1, or ‘columns’ : Remove as colunas com registros inválidos;
+
+how :
+
+‘any’ : Caso haja algum valor inválido na linha ou coluna;
+
+‘all’ : Caso todos os valores da linha ou coluna sejam inválidos;
+
 **Exibir apenas algumas colunas**
 
 *df.drop(df.columns.difference(['Mês','Empresa','Qtd_Viagens']), axis=1).head()*
