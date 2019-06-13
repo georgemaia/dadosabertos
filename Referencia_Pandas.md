@@ -166,6 +166,8 @@ Agrupa as colunas pelo mês
 
 ## Referências
 
+[Documentação Oficial do Pandas](http://pandas.pydata.org/pandas-docs/stable/)
+
 [https://github.com/reisdebora/analisapenalidadesCNPJ/blob/master/analisa_penalidades.md](https://github.com/reisdebora/analisapenalidadesCNPJ/blob/master/analisa_penalidades.md)
 
 [https://github.com/alvarofpp/analise-ufrn-python-day-2018](https://github.com/alvarofpp/analise-ufrn-python-day-2018)
