@@ -49,4 +49,10 @@ Datasets utilizados para estudos com Jupyter Notebooks
 
 - [Gastos dos Deputados Federais](https://github.com/iagosaito/Gastos-dos-Parlamentares-2019/blob/master/Dados%20P%C3%BAblicos%20-%20Gasto%20dos%20Parlamentares.ipynb)
 
+- [Saúde da Família](https://github.com/matheuscosantos/analise-saude-familia)
 
+- [Poços de Petróleo e Gás no Brasil](https://github.com/felipekoblinger/tbi004-data-science-brazil-oil-gas-exploration)
+
+- [Carros roubados do estado de São Paulo](https://github.com/guilhermeFaria/Data-Analysis-stolen-cars)
+
+- [Lista de Espera da Saúde de Santa Catarina](https://github.com/llautert/hacking-health-sc-2017)
