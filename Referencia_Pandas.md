@@ -144,7 +144,7 @@ month_names = df.Mês.apply(lambda x: month_name[x])
 
 *month_name[3]*
 
-**Adiciona nova comluma chamada Month**
+**Adiciona nova coluna chamada Month**
 
 *df['Month'] = month_names*
 
