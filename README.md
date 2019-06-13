@@ -31,9 +31,9 @@ Datasets utilizados para estudos com Jupyter Notebooks
 
 # Referencias de aplicação de análise de dados
 
-- [Minerando dados do IBGE](https://github.com/JonathanFatecSJC/Mineran-Dados-do-IBGE)
+- [IBGE](https://github.com/JonathanFatecSJC/Mineran-Dados-do-IBGE)
 
-- [Analise de dados do ENEM com infraestrutura básica](https://github.com/LASalvador/Analise-de-dados-Enem-infraestrutura-b-sica)
+- [ENEM com infraestrutura básica](https://github.com/LASalvador/Analise-de-dados-Enem-infraestrutura-b-sica)
 
 - [Obitos no Brasil](https://github.com/fmasanori/Obitos_No_Brasil)
 
@@ -43,7 +43,10 @@ Datasets utilizados para estudos com Jupyter Notebooks
 
 - [Gastos dos deputados estaduais de SP](https://github.com/wallaceantunes/ProjetoGastoDepSp)
 
-- [Analise de dados do Prouni](https://github.com/josehcz/Analise-de-danos-Prouni-ADS)
+- [Prouni](https://github.com/josehcz/Analise-de-danos-Prouni-ADS)
 
+- [Preço de combustíveis](https://github.com/maxnogreis/AnaliseCombustiveisBR)
+
+- [Gastos dos Deputados Federais](https://github.com/iagosaito/Gastos-dos-Parlamentares-2019/blob/master/Dados%20P%C3%BAblicos%20-%20Gasto%20dos%20Parlamentares.ipynb)
 
 
