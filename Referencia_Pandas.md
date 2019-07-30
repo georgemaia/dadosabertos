@@ -177,3 +177,5 @@ Agrupa as colunas pelo mês
 [https://github.com/leportella/datascience-pizza](https://github.com/leportella/datascience-pizza)
 
 [https://github.com/justmarkham/pycon-2019-tutorial](https://github.com/justmarkham/pycon-2019-tutorial)
+
+[https://github.com/fmasanori/CursoPyLadiesSP](https://github.com/fmasanori/CursoPyLadiesSP)
