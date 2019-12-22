@@ -56,3 +56,5 @@ Portal da Transparência da Mobilidade Urbana de Natal/RN - http://dadosabertos.
 - [Carros roubados do estado de São Paulo](https://github.com/guilhermeFaria/Data-Analysis-stolen-cars)
 
 - [Lista de Espera da Saúde de Santa Catarina](https://github.com/llautert/hacking-health-sc-2017)
+
+- Projeto Embaixadoras - Querido Diário: Do PDF aos dados abertos de diários oficiais - [Video 1](https://www.youtube.com/watch?v=fxmosX6vQmg) - [Video 2](https://www.youtube.com/watch?v=RqExaJidfiQ)
