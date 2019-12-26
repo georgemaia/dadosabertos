@@ -58,3 +58,11 @@ Portal da Transparência da Mobilidade Urbana de Natal/RN - http://dadosabertos.
 - [Lista de Espera da Saúde de Santa Catarina](https://github.com/llautert/hacking-health-sc-2017)
 
 - Projeto Embaixadoras - Querido Diário: Do PDF aos dados abertos de diários oficiais - [Video 1](https://www.youtube.com/watch?v=fxmosX6vQmg) - [Video 2](https://www.youtube.com/watch?v=RqExaJidfiQ)
+
+# Referências Dados Abertos
+
+[Youtube: Open Data Day 2015 - Calango Hacker Clube](https://www.youtube.com/watch?v=8IITQSAHJiQ&list=WL&index=23&t=0s)
+
+[Youtube: Brasil.IO: Dados abertos para mais democracia - Álvaro Justen - PythonBrasil](https://www.youtube.com/watch?v=MZZFmucRxoY&list=WL&index=13&t=0s)
+
+[Youtube: Python para jornalistas - Álvaro Justen - PythonBrasil](https://www.youtube.com/watch?v=ywUl5c0EV1Q&list=WL&index=7&t=0s)
