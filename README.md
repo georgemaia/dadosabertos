@@ -66,3 +66,5 @@ Portal da Transparência da Mobilidade Urbana de Natal/RN - http://dadosabertos.
 [Youtube: Brasil.IO: Dados abertos para mais democracia - Álvaro Justen - PythonBrasil](https://www.youtube.com/watch?v=MZZFmucRxoY&list=WL&index=13&t=0s)
 
 [Youtube: Python para jornalistas - Álvaro Justen - PythonBrasil](https://www.youtube.com/watch?v=ywUl5c0EV1Q&list=WL&index=7&t=0s)
+
+[Análise de Dados Públicos](https://www.youtube.com/watch?v=NIYsAtTpJ5M&list=PLUukMN0DTKCu6g2Lq1KXLnIX6Ilk4DAPI)
